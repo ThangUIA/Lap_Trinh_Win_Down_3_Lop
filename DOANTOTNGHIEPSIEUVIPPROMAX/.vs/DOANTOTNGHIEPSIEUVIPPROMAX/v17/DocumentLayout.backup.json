@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dingdongchingchong\\Lap_Trinh_Win_Down_3_Lop\\DOANTOTNGHIEPSIEUVIPPROMAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022A5137-0430-441D-86D0-66F096F9DE42}|DOANTOTNGHIEPSIEUVIPPROMAX.csproj|d:\\dingdongchingchong\\lap_trinh_win_down_3_lop\\doantotnghiepsieuvippromax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{022A5137-0430-441D-86D0-66F096F9DE42}|DOANTOTNGHIEPSIEUVIPPROMAX.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\dingdongchingchong\\Lap_Trinh_Win_Down_3_Lop\\DOANTOTNGHIEPSIEUVIPPROMAX\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\dingdongchingchong\\Lap_Trinh_Win_Down_3_Lop\\DOANTOTNGHIEPSIEUVIPPROMAX\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:05:52.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
